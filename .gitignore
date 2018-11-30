@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# WebStorm stuff
+.idea/
+
+# TS compile stuff
+**/*.js
+**/*.map
